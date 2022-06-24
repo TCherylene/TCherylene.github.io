@@ -1,0 +1,37 @@
+/* HEADER */ 
+#nav-list {
+    margin-top: 10px;
+}
+
+.navbar{
+    border-radius: 0;
+}
+
+.navbar-header button.navbar-toggle {
+    clear: both;
+    margin-top: -30px;
+}
+/* END OF HEADER */
+
+/* CONTENT */
+div h2 {
+    text-align: center;
+    font-weight: bold;
+}
+
+div .menu-category p span{
+    color: #e0e0e0;
+}
+
+div .menu-category p a{
+    color: #00376efc;
+}
+
+.menu-category{
+    background-color: #6ebff5;
+    color: black;
+    margin-top: 30px;
+    padding: 10px;
+}
+
+/* END OF CONTENT */
